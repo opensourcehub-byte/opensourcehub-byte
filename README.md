@@ -35,7 +35,7 @@ We’re a group of developers working collaboratively on open-source projects us
 
 | Project Name | Description | Tech |
 |--------------|-------------|------|
-| [Amazon Clone]() | A frontend + backend full-stack app | React, Node, MongoDB |
+| [Amazon Clone](https://github.com/opensourcehub-byte/amazonclone) | A frontend + backend full-stack app | React, Node, MongoDB |
 
 
 ---
